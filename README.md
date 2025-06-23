@@ -1,1 +1,1 @@
-This Project was made by Mohammad Alameh & Mohammad Alsayed
+This is the final project for Mobile Application course
